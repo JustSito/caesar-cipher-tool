@@ -1,9 +1,6 @@
 # caesar-cipher-tool
 A simple Python implementation of the Caesar cipher supporting both encryption and decryption.
 
-# Caesar Cipher Toolkit
-
-A lightweight Python implementation of the classic Caesar cipher algorithm for basic text encryption and decryption.
 
 ## 🔐 Logic
 
